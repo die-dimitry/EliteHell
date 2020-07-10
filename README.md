@@ -9,7 +9,7 @@ You wont be able to remove the virus simply by going in the app manager, You can
 ```
 
 # I Am not the author of this .apk 
+ 
 
-- You can reach me by 
 * [Instagram](https://www.instagram.com/qirit0_0) - Qirit0
 * [Telegram](https://t.me/dailyhijacks) - DailyHijacks
